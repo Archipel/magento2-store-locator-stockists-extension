@@ -48,7 +48,6 @@
 .search-stockists {
     background: #ffffff;
     width: 285px;
-    height: 464px;
     padding: 20px 17px 20px 15px;
     right: 100px;
     z-index: 1;
@@ -229,7 +228,6 @@
 .page_width_sidebar .search-stockists{
     top: 0;
     right: 0;
-    height: 130px;
 }
 .page_width_sidebar .stockists-results{
 	display: none;
