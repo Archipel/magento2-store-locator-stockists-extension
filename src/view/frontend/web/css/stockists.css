@@ -55,6 +55,7 @@
 }
 .full_width_sidebar .search-stockists{
     height: 130px;
+    overflow-y: scroll;
 }
 .full_width_sidebar .stockists-results{
 	display: none;
@@ -109,7 +110,6 @@
 }
 .search-stockists .stockists-results {
     overflow-y: scroll;
-    height: 315px;
     margin-top: 15px;
 }
 .stockists-results .image,
