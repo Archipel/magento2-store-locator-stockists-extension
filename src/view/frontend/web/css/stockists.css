@@ -51,11 +51,16 @@
     padding: 20px 17px 20px 15px;
     right: 100px;
     z-index: 1;
-    top: 355px;
+    top: 168px;
 }
+
+.parent-stockists.full_width_sidebar {
+    position: relative;
+}
+
 .full_width_sidebar .search-stockists{
-    height: 130px;
-    overflow-y: scroll;
+    height: auto;
+    overflow-y: auto;
 }
 .full_width_sidebar .stockists-results{
 	display: none;
